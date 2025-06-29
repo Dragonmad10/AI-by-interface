@@ -1,0 +1,1 @@
+#configuration of the differet parameters of the layer(number of layers, neurons, function of the neuron)
